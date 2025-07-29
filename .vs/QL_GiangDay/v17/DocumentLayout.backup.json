@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formupdatelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formupdatelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formupdatelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formupdatelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formsplash_afterlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formsplash_afterlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\chuongtrinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:chuongtrinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|d:\\code\\c#\\c# - winform\\ql_giangday\\formlogininformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89C42802-BF2E-4391-812F-AD5A420F66D4}|QL_GiangDay.csproj|solutionrelative:formlogininformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUpdateLogin.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormUpdateLogin.cs",
+              "RelativeDocumentMoniker": "FormUpdateLogin.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormUpdateLogin.cs",
+              "RelativeToolTip": "FormUpdateLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:02:31.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUpdateLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormUpdateLogin.cs",
+              "RelativeDocumentMoniker": "FormUpdateLogin.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormUpdateLogin.cs [Design]",
+              "RelativeToolTip": "FormUpdateLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:57.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSplash_AfterLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormSplash_AfterLogin.cs",
+              "RelativeDocumentMoniker": "FormSplash_AfterLogin.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormSplash_AfterLogin.cs [Design]",
+              "RelativeToolTip": "FormSplash_AfterLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:56.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSplash.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormSplash.cs",
+              "RelativeDocumentMoniker": "FormSplash.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormSplash.cs [Design]",
+              "RelativeToolTip": "FormSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:56.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormRegister.cs [Design]",
+              "RelativeToolTip": "FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:55.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chuongtrinhhoc.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\Chuongtrinhhoc.cs",
+              "RelativeDocumentMoniker": "Chuongtrinhhoc.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\Chuongtrinhhoc.cs [Design]",
+              "RelativeToolTip": "Chuongtrinhhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:50.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:49.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLoginInformation.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormLoginInformation.cs",
+              "RelativeDocumentMoniker": "FormLoginInformation.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormLoginInformation.cs [Design]",
+              "RelativeToolTip": "FormLoginInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:48.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\Code\\C#\\C# - Winform\\QL_GiangDay\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:47.938Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
